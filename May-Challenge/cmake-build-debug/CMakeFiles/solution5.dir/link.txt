@@ -1,3 +1,0 @@
-C:\Users\18123\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.6668.126\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\solution5.dir/objects.a
-C:\Users\18123\mingw\mingw64\bin\ar.exe cr CMakeFiles\solution5.dir/objects.a @CMakeFiles\solution5.dir\objects1.rsp
-C:\Users\18123\mingw\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\solution5.dir/objects.a -Wl,--no-whole-archive  -o solution5.exe -Wl,--out-implib,libsolution5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\solution5.dir\linklibs.rsp

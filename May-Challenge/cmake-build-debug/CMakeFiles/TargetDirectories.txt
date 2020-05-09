@@ -1,5 +1,0 @@
-C:/Users/18123/CLionProjects/LeetCode-May-Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/18123/CLionProjects/LeetCode-May-Challenge/cmake-build-debug/CMakeFiles/solution1.dir
-C:/Users/18123/CLionProjects/LeetCode-May-Challenge/cmake-build-debug/CMakeFiles/solution3.dir
-C:/Users/18123/CLionProjects/LeetCode-May-Challenge/cmake-build-debug/CMakeFiles/solution4.dir
-C:/Users/18123/CLionProjects/LeetCode-May-Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
