@@ -786,7 +786,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-and-replace-in-string/) ~~[S]~~  0833. Find And Replace in String
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sum-of-distances-in-tree/) ~~[S]~~  0834. Sum of Distances in Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/image-overlap/) ~~[S]~~  0835. Image Overlap
-- [ ] 😊 [[Q]](https://leetcode.com/problems/rectangle-overlap/) ~~[S]~~  0836. Rectangle Overlap
+- [X] 😊 [[Q]](https://leetcode.com/problems/rectangle-overlap/) [[S]](./Sweep%20Line%20Algorithm/836.%20Rectangle%20Overlap/836-solution.py) 0836. Rectangle Overlap
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/new-21-game/) ~~[S]~~  0837. New 21 Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/push-dominoes/) ~~[S]~~  0838. Push Dominoes
 - [ ] 😫 [[Q]](https://leetcode.com/problems/similar-string-groups/) ~~[S]~~  0839. Similar String Groups
@@ -800,7 +800,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) ~~[S]~~  0847. Shortest Path Visiting All Nodes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/shifting-letters/) ~~[S]~~  0848. Shifting Letters
 - [ ] 😊 [[Q]](https://leetcode.com/problems/maximize-distance-to-closest-person/) ~~[S]~~  0849. Maximize Distance to Closest Person
-- [ ] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) ~~[S]~~  0850. Rectangle Area II
+- [X] 😫 [[Q]](https://leetcode.com/problems/rectangle-area-ii/) [[S]](./Sweep%20Line%20Algorithm/850.%20Rectangle%20Area%20II/850-solution.cpp) 0850. Rectangle Area II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/loud-and-rich/) ~~[S]~~  0851. Loud and Rich
 - [ ] 😊 [[Q]](https://leetcode.com/problems/peak-index-in-a-mountain-array/) ~~[S]~~  0852. Peak Index in a Mountain Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/car-fleet/) ~~[S]~~  0853. Car Fleet

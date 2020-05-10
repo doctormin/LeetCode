@@ -34,18 +34,21 @@ def findAllFile(base):
     for root, ds, fs in os.walk(base):
         for f in fs:
             if f.endswith('.py') or f.endswith('.cpp'):
-                yield f
+                fullname = os.path.join(root, f)
+                yield [f, fullname]
 
-dirpath = '/mnt/c/Users/18123/CLionProjects/LeetCode'
-for file_name in findAllFile(dirpath):
-    try:
-        qid = r.findall(r"\d*", file_name)
-        print("pid = ", qid)
-        path = os.path.join(dirpath, file_name)
-        print("path = ", path)
-        solved[qid] = path
-    except:
-        pass
+dirpath = '.'
+for group in findAllFile(dirpath):
+    file_name = group[0]
+    file_path = group[1]
+    #print("file_name = ", file_name)
+    qid = re.findall(r"^\d*", file_name)
+    if qid[0] == '':
+        continue
+    file_path = file_path.replace(' ', '%20')
+    print("file_path = ", repr(file_path))
+    print("pid = ", int(qid[0]))
+    solved[int(qid[0])] = file_path
 
 for question in questions:
     qid = question['stat']['frontend_question_id']
