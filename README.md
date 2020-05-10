@@ -350,7 +350,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/nested-list-weight-sum-ii/) ~~[S]~~  0364. Nested List Weight Sum II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/water-and-jug-problem/) ~~[S]~~  0365. Water and Jug Problem
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-leaves-of-binary-tree/) ~~[S]~~  0366. Find Leaves of Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) ~~[S]~~  0367. Valid Perfect Square
+- [X] 😊 [[Q]](https://leetcode.com/problems/valid-perfect-square/) [[S]](./May-Challenge/May%209%20Valid%20Perfect%20Square/367-solution.py) 0367. Valid Perfect Square
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/largest-divisible-subset/) ~~[S]~~  0368. Largest Divisible Subset
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/plus-one-linked-list/) ~~[S]~~  0369. Plus One Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/range-addition/) ~~[S]~~  0370. Range Addition

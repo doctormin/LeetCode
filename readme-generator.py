@@ -46,9 +46,10 @@ for group in findAllFile(dirpath):
     if qid[0] == '':
         continue
     file_path = file_path.replace(' ', '%20')
-    print("file_path = ", repr(file_path))
-    print("pid = ", int(qid[0]))
+    #print("file_path = ", repr(file_path))
+    #print("pid = ", int(qid[0]))
     solved[int(qid[0])] = file_path
+
 
 for question in questions:
     qid = question['stat']['frontend_question_id']
@@ -56,6 +57,10 @@ for question in questions:
     title = question['stat']['question__title']
     title_slug = question['stat']['question__title_slug']
     if qid in solved:
+        print(qid, " solved !")
+        print(title_slug)
+        print(solved[qid])
+        print(title)
         line = '- [X] {} [[Q]](https://leetcode.com/problems/{}/) [[S]]({}) {:0>4d}. {}\n' \
             .format(difficulty, title_slug, solved[qid], qid, title)
     else:
