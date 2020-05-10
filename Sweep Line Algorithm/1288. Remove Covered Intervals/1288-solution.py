@@ -2,7 +2,6 @@ import heapq
 import functools
 class Solution:
     def removeCoveredIntervals(self, intervals) -> int:
-        length = len(intervals)
         delete_num = 0
         points = [] 
         # 对于进入点：
@@ -24,40 +23,34 @@ class Solution:
                     return -1
                 elif A[1] == -1 and B[1] == 1:
                     return 1
-                elif A[1] == 1 and B[1] == 1:
-                    if A[3] < B[3]:
-                        return 1
-                    else:
-                        return -1
                 else:
                     if A[3] < B[3]:
                         return 1
                     else:
                         return -1
-
+                        
         points.sort(key=functools.cmp_to_key(compare))
-        print(points)
         ptr = 0
         for point in points:
             if point[1] == -1: # leaving point
                 while(points[ptr][4] == 1):
                     ptr += 1
                 if points[ptr][2] == point[2]: # 最左边的点的确是对应的左端点
-                    print(point, " leaving 1, now the left most one is ", points[0])
+                    #print(point, " leaving 1, now the left most one is ", points[0])
                     points[ptr][4] = 1 # 删去左端点
                     point[4] = 1 # 删去右端点
                 else:
                     # 这个集合被包含了，要在计数时删去
-                    print(point, " leaving 2, now the left most one is ", points[0])
+                    #print(point, " leaving 2, now the left most one is ", points[0])
                     delete_num += 1
                     point[4] = 1
                     counter = 0
                     for each in points:
                         if each[2] == point[2]:
-                            print("del ", points[counter])
+                            #print("del ", points[counter])
                             points[counter][4] = 1
                         counter += 1
-        return (length - delete_num)
+        return (len(intervals) - delete_num)
         
 
 if __name__ == "__main__":

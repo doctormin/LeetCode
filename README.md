@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-10%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-11%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -1189,7 +1189,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) ~~[S]~~  1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/iterator-for-combination/) ~~[S]~~  1286. Iterator for Combination
 - [ ] 😊 [[Q]](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) ~~[S]~~  1287. Element Appearing More Than 25% In Sorted Array
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) ~~[S]~~  1288. Remove Covered Intervals
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-covered-intervals/) [[S]](./Sweep%20Line%20Algorithm/1288.%20Remove%20Covered%20Intervals/1288-solution.py) 1288. Remove Covered Intervals
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-falling-path-sum-ii/) ~~[S]~~  1289. Minimum Falling Path Sum II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) ~~[S]~~  1290. Convert Binary Number in a Linked List to Integer
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sequential-digits/) ~~[S]~~  1291. Sequential Digits
