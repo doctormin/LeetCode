@@ -50,17 +50,20 @@ for group in findAllFile(dirpath):
     #print("pid = ", int(qid[0]))
     solved[int(qid[0])] = file_path
 
+solved_count = 0
+count = 0
+ratio = ''
+
 
 for question in questions:
     qid = question['stat']['frontend_question_id']
     difficulty = difficulties[question['difficulty']['level']]
     title = question['stat']['question__title']
     title_slug = question['stat']['question__title_slug']
+    count += 1
     if qid in solved:
         print(qid, " solved !")
-        print(title_slug)
-        print(solved[qid])
-        print(title)
+        solved_count += 1
         line = '- [X] {} [[Q]](https://leetcode.com/problems/{}/) [[S]]({}) {:0>4d}. {}\n' \
             .format(difficulty, title_slug, solved[qid], qid, title)
     else:
@@ -68,8 +71,15 @@ for question in questions:
             .format(difficulty, title_slug, qid, title)
     lines.append(line)
 
+ratio += str(solved_count)
+ratio += r'%20%2F%20'
+ratio += str(count)
+
 with open('README.md', 'w') as fp:
     fp.write('# LeetCode\n')
-    fp.write("Yimin's LeetCode solutions.\n")
+    fp.write('![](https://img.shields.io/badge/language-python-orange.svg)  ')
+    fp.write('![](https://img.shields.io/badge/language-C%2B%2B-blue)'  )
+    fp.write(f'![](https://img.shields.io/badge/progress-{ratio}-brigntgreen)')
+    fp.write("\nYimin's LeetCode solutions.\n")
     fp.write('## Problems\n')
     fp.writelines(lines)
