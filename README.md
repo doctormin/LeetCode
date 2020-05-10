@@ -1,5 +1,6 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)![](https://img.shields.io/badge/progress-10%20%2F%201318-yellow)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-10%20%2F%201318-brigntgreen)
+
 Yimin's LeetCode solutions.
 ## Problems
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum/) ~~[S]~~  0001. Two Sum
