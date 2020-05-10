@@ -169,7 +169,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-to-recurring-decimal/) ~~[S]~~  0166. Fraction to Recurring Decimal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ~~[S]~~  0167. Two Sum II - Input array is sorted
 - [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-title/) ~~[S]~~  0168. Excel Sheet Column Title
-- [ ] 😊 [[Q]](https://leetcode.com/problems/majority-element/) ~~[S]~~  0169. Majority Element
+- [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./May-Challenge/May%206%20Majority%20Element/169-solution.py) 0169. Majority Element
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-iii-data-structure-design/) ~~[S]~~  0170. Two Sum III - Data structure design
 - [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) ~~[S]~~  0171. Excel Sheet Column Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/factorial-trailing-zeroes/) ~~[S]~~  0172. Factorial Trailing Zeroes
@@ -261,7 +261,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) ~~[S]~~  0275. H-Index II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~  0276. Paint Fence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-celebrity/) ~~[S]~~  0277. Find the Celebrity
-- [ ] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) ~~[S]~~  0278. First Bad Version
+- [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./May-Challenge/May%201%20First%20Bad%20Version/278-solution.cpp) 0278. First Bad Version
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) ~~[S]~~  0279. Perfect Squares
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort/) ~~[S]~~  0280. Wiggle Sort
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-iterator/) ~~[S]~~  0281. Zigzag Iterator
@@ -366,11 +366,11 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1/) ~~[S]~~  0380. Insert Delete GetRandom O(1)
 - [ ] 😫 [[Q]](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) ~~[S]~~  0381. Insert Delete GetRandom O(1) - Duplicates allowed
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/linked-list-random-node/) ~~[S]~~  0382. Linked List Random Node
-- [ ] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) ~~[S]~~  0383. Ransom Note
+- [X] 😊 [[Q]](https://leetcode.com/problems/ransom-note/) [[S]](./May-Challenge/May%203%20Ransom%20Note/383-solution.cpp) 0383. Ransom Note
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/shuffle-an-array/) ~~[S]~~  0384. Shuffle an Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/mini-parser/) ~~[S]~~  0385. Mini Parser
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/lexicographical-numbers/) ~~[S]~~  0386. Lexicographical Numbers
-- [ ] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) ~~[S]~~  0387. First Unique Character in a String
+- [X] 😊 [[Q]](https://leetcode.com/problems/first-unique-character-in-a-string/) [[S]](./May-Challenge/May%205%20First%20Unique%20Character%20in%20a%20String/387-solution.py) 0387. First Unique Character in a String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-absolute-file-path/) ~~[S]~~  0388. Longest Absolute File Path
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) ~~[S]~~  0389. Find the Difference
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/elimination-game/) ~~[S]~~  0390. Elimination Game
@@ -459,7 +459,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/matchsticks-to-square/) ~~[S]~~  0473. Matchsticks to Square
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ones-and-zeroes/) ~~[S]~~  0474. Ones and Zeroes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/heaters/) ~~[S]~~  0475. Heaters
-- [ ] 😊 [[Q]](https://leetcode.com/problems/number-complement/) ~~[S]~~  0476. Number Complement
+- [X] 😊 [[Q]](https://leetcode.com/problems/number-complement/) [[S]](./May-Challenge/May%204%20Number%20Complement/476-solution.cpp) 0476. Number Complement
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/total-hamming-distance/) ~~[S]~~  0477. Total Hamming Distance
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/generate-random-point-in-a-circle/) ~~[S]~~  0478. Generate Random Point in a Circle
 - [ ] 😫 [[Q]](https://leetcode.com/problems/largest-palindrome-product/) ~~[S]~~  0479. Largest Palindrome Product
@@ -943,7 +943,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) ~~[S]~~  0990. Satisfiability of Equality Equations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/broken-calculator/) ~~[S]~~  0991. Broken Calculator
 - [ ] 😫 [[Q]](https://leetcode.com/problems/subarrays-with-k-different-integers/) ~~[S]~~  0992. Subarrays with K Different Integers
-- [ ] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) ~~[S]~~  0993. Cousins in Binary Tree
+- [X] 😊 [[Q]](https://leetcode.com/problems/cousins-in-binary-tree/) [[S]](./May-Challenge/May%207%20Cousins%20in%20Binary%20Tree/993-solution.py) 0993. Cousins in Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) ~~[S]~~  0994. Rotting Oranges
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) ~~[S]~~  0995. Minimum Number of K Consecutive Bit Flips
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-squareful-arrays/) ~~[S]~~  0996. Number of Squareful Arrays
@@ -1139,7 +1139,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/meeting-scheduler/) ~~[S]~~  1229. Meeting Scheduler
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/toss-strange-coins/) ~~[S]~~  1230. Toss Strange Coins
 - [ ] 😫 [[Q]](https://leetcode.com/problems/divide-chocolate/) ~~[S]~~  1231. Divide Chocolate
-- [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) ~~[S]~~  1232. Check If It Is a Straight Line
+- [X] 😊 [[Q]](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [[S]](./May-Challenge/May%208%20Check%20If%20It%20Is%20a%20Straight%20Line/1232-solution.py) 1232. Check If It Is a Straight Line
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) ~~[S]~~  1233. Remove Sub-Folders from the Filesystem
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) ~~[S]~~  1234. Replace the Substring for Balanced String
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) ~~[S]~~  1235. Maximum Profit in Job Scheduling
