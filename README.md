@@ -190,7 +190,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) ~~[S]~~  0201. Bitwise AND of Numbers Range
 - [ ] 😊 [[Q]](https://leetcode.com/problems/happy-number/) ~~[S]~~  0202. Happy Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) ~~[S]~~  0203. Remove Linked List Elements
-- [ ] 😊 [[Q]](https://leetcode.com/problems/count-primes/) ~~[S]~~  0204. Count Primes
+- [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./Number%20Theoretic%20Algorithm/204.%20Count%20Primes/204-Sieve-of-Euler.cpp) 0204. Count Primes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~  0205. Isomorphic Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) ~~[S]~~  0206. Reverse Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) ~~[S]~~  0207. Course Schedule
