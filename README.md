@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-12%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-13%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -949,7 +949,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotting-oranges/) ~~[S]~~  0994. Rotting Oranges
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) ~~[S]~~  0995. Minimum Number of K Consecutive Bit Flips
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-squareful-arrays/) ~~[S]~~  0996. Number of Squareful Arrays
-- [ ] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) ~~[S]~~  0997. Find the Town Judge
+- [X] 😊 [[Q]](https://leetcode.com/problems/find-the-town-judge/) [[S]](./May-Challenge/May%2010%20Find%20the%20Town%20Judge/997-solution.py) 0997. Find the Town Judge
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-binary-tree-ii/) ~~[S]~~  0998. Maximum Binary Tree II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/available-captures-for-rook/) ~~[S]~~  0999. Available Captures for Rook
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-cost-to-merge-stones/) ~~[S]~~  1000. Minimum Cost to Merge Stones
