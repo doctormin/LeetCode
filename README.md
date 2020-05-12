@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-14%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-15%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -522,7 +522,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/complex-number-multiplication/) ~~[S]~~  0537. Complex Number Multiplication
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-bst-to-greater-tree/) ~~[S]~~  0538. Convert BST to Greater Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-time-difference/) ~~[S]~~  0539. Minimum Time Difference
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) ~~[S]~~  0540. Single Element in a Sorted Array
+- [X] 🤨 [[Q]](https://leetcode.com/problems/single-element-in-a-sorted-array/) [[S]](./May-Challenge/May%2012%20Single%20Element%20in%20a%20Sorted%20Array/540-solution.py) 0540. Single Element in a Sorted Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-string-ii/) ~~[S]~~  0541. Reverse String II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/01-matrix/) ~~[S]~~  0542. 01 Matrix
 - [ ] 😊 [[Q]](https://leetcode.com/problems/diameter-of-binary-tree/) ~~[S]~~  0543. Diameter of Binary Tree
