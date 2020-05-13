@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-15%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-17%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -44,7 +44,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum/) ~~[S]~~  0039. Combination Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-ii/) ~~[S]~~  0040. Combination Sum II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/first-missing-positive/) ~~[S]~~  0041. First Missing Positive
-- [ ] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water/) ~~[S]~~  0042. Trapping Rain Water
+- [X] 😫 [[Q]](https://leetcode.com/problems/trapping-rain-water/) [[S]](./Monotone%20Stack%20Algorithm/42.%20Trapping%20Rain%20Water/42-solution.cpp) 0042. Trapping Rain Water
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/multiply-strings/) ~~[S]~~  0043. Multiply Strings
 - [ ] 😫 [[Q]](https://leetcode.com/problems/wildcard-matching/) ~~[S]~~  0044. Wildcard Matching
 - [ ] 😫 [[Q]](https://leetcode.com/problems/jump-game-ii/) ~~[S]~~  0045. Jump Game II
@@ -387,7 +387,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) ~~[S]~~  0399. Evaluate Division
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/nth-digit/) ~~[S]~~  0400. Nth Digit
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-watch/) ~~[S]~~  0401. Binary Watch
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) ~~[S]~~  0402. Remove K Digits
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](./May-Challenge/May%2013%20Remove%20K%20Digits/402-solution.py) 0402. Remove K Digits
 - [ ] 😫 [[Q]](https://leetcode.com/problems/frog-jump/) ~~[S]~~  0403. Frog Jump
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) ~~[S]~~  0404. Sum of Left Leaves
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) ~~[S]~~  0405. Convert a Number to Hexadecimal
