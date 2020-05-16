@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-17%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-20%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -55,7 +55,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) ~~[S]~~  0050. Pow(x, n)
 - [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens/) ~~[S]~~  0051. N-Queens
 - [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) ~~[S]~~  0052. N-Queens II
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) ~~[S]~~  0053. Maximum Subarray
+- [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](./DP/Kadane's%20Algorithm/53.%20Maximum%20Subarray/53-solution.py) 0053. Maximum Subarray
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix/) ~~[S]~~  0054. Spiral Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/jump-game/) ~~[S]~~  0055. Jump Game
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/merge-intervals/) ~~[S]~~  0056. Merge Intervals
@@ -171,7 +171,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-to-recurring-decimal/) ~~[S]~~  0166. Fraction to Recurring Decimal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ~~[S]~~  0167. Two Sum II - Input array is sorted
 - [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-title/) ~~[S]~~  0168. Excel Sheet Column Title
-- [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./May-Challenge/May%206%20Majority%20Element/169-solution.py) 0169. Majority Element
+- [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./Number%20Theoretic%20Algorithm/169.%20Majority%20Element/169-solution.py) 0169. Majority Element
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-iii-data-structure-design/) ~~[S]~~  0170. Two Sum III - Data structure design
 - [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) ~~[S]~~  0171. Excel Sheet Column Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/factorial-trailing-zeroes/) ~~[S]~~  0172. Factorial Trailing Zeroes
@@ -194,7 +194,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~  0205. Isomorphic Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) ~~[S]~~  0206. Reverse Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) ~~[S]~~  0207. Course Schedule
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) ~~[S]~~  0208. Implement Trie (Prefix Tree)
+- [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](./May-Challenge/May%2014%20Implement%20Trie%20(Prefix%20Tree)/208-solution.cpp) 0208. Implement Trie (Prefix Tree)
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) ~~[S]~~  0209. Minimum Size Subarray Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) ~~[S]~~  0210. Course Schedule II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) ~~[S]~~  0211. Add and Search Word - Data structure design
@@ -387,7 +387,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) ~~[S]~~  0399. Evaluate Division
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/nth-digit/) ~~[S]~~  0400. Nth Digit
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-watch/) ~~[S]~~  0401. Binary Watch
-- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](./May-Challenge/May%2013%20Remove%20K%20Digits/402-solution.py) 0402. Remove K Digits
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](./Monotone%20Stack%20Algorithm/402.%20Remove%20K%20Digits/402-solution.py) 0402. Remove K Digits
 - [ ] 😫 [[Q]](https://leetcode.com/problems/frog-jump/) ~~[S]~~  0403. Frog Jump
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) ~~[S]~~  0404. Sum of Left Leaves
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) ~~[S]~~  0405. Convert a Number to Hexadecimal
@@ -870,7 +870,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) ~~[S]~~  0915. Partition Array into Disjoint Intervals
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/word-subsets/) ~~[S]~~  0916. Word Subsets
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-only-letters/) ~~[S]~~  0917. Reverse Only Letters
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) ~~[S]~~  0918. Maximum Sum Circular Subarray
+- [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](./DP/Kadane's%20Algorithm/918.%20Maximum%20Sum%20Circular%20Subarray/918-solution.py) 0918. Maximum Sum Circular Subarray
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/complete-binary-tree-inserter/) ~~[S]~~  0919. Complete Binary Tree Inserter
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-music-playlists/) ~~[S]~~  0920. Number of Music Playlists
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) ~~[S]~~  0921. Minimum Add to Make Parentheses Valid
