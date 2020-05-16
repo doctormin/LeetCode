@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-20%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-21%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -123,7 +123,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle/) ~~[S]~~  0118. Pascal's Triangle
 - [ ] 😊 [[Q]](https://leetcode.com/problems/pascals-triangle-ii/) ~~[S]~~  0119. Pascal's Triangle II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/triangle/) ~~[S]~~  0120. Triangle
-- [ ] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ~~[S]~~  0121. Best Time to Buy and Sell Stock
+- [X] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[S]](./DP/Kadane's%20Algorithm/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121-solution.py) 0121. Best Time to Buy and Sell Stock
 - [ ] 😊 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) ~~[S]~~  0122. Best Time to Buy and Sell Stock II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) ~~[S]~~  0123. Best Time to Buy and Sell Stock III
 - [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-maximum-path-sum/) ~~[S]~~  0124. Binary Tree Maximum Path Sum
