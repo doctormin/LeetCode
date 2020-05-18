@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-23%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-24%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -52,7 +52,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations-ii/) ~~[S]~~  0047. Permutations II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) ~~[S]~~  0048. Rotate Image
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/group-anagrams/) ~~[S]~~  0049. Group Anagrams
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) ~~[S]~~  0050. Pow(x, n)
+- [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](./Number%20Theoretic%20Algorithm/50.%20Pow(x,%20n)/50-solution.py) 0050. Pow(x, n)
 - [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens/) ~~[S]~~  0051. N-Queens
 - [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) ~~[S]~~  0052. N-Queens II
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](./DP/Kadane's%20Algorithm/53.%20Maximum%20Subarray/53-solution.py) 0053. Maximum Subarray
