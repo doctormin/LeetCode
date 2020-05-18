@@ -5,6 +5,8 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
+# 此解法有错误，待修复
 class Solution:
     def oddEvenList(self, head: ListNode) -> ListNode:
         if not head or not head.next:

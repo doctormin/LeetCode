@@ -311,9 +311,9 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) ~~[S]~~  0323. Number of Connected Components in an Undirected Graph
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort-ii/) ~~[S]~~  0324. Wiggle Sort II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) ~~[S]~~  0325. Maximum Size Subarray Sum Equals k
-- [X] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) [[S]](./Data%20Structure/328.%20Odd%20Even%20Linked%20List/326-solution.cpp) 0326. Power of Three
+- [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) ~~[S]~~  0326. Power of Three
 - [ ] 😫 [[Q]](https://leetcode.com/problems/count-of-range-sum/) ~~[S]~~  0327. Count of Range Sum
-- [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./Data%20Structure/328.%20Odd%20Even%20Linked%20List/328-solution.py) 0328. Odd Even Linked List
+- [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./Data%20Structure/Linked%20List/328.%20Odd%20Even%20Linked%20List/328-solution.py) 0328. Odd Even Linked List
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) ~~[S]~~  0329. Longest Increasing Path in a Matrix
 - [ ] 😫 [[Q]](https://leetcode.com/problems/patching-array/) ~~[S]~~  0330. Patching Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) ~~[S]~~  0331. Verify Preorder Serialization of a Binary Tree
@@ -423,7 +423,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) ~~[S]~~  0435. Non-overlapping Intervals
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) ~~[S]~~  0436. Find Right Interval
 - [ ] 😊 [[Q]](https://leetcode.com/problems/path-sum-iii/) ~~[S]~~  0437. Path Sum III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) ~~[S]~~  0438. Find All Anagrams in a String
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./Data%20Structure/Hash%20Table/438.%20Find%20All%20Anagrams%20in%20a%20String/438-solution.cpp) 0438. Find All Anagrams in a String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ternary-expression-parser/) ~~[S]~~  0439. Ternary Expression Parser
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) ~~[S]~~  0440. K-th Smallest in Lexicographical Order
 - [ ] 😊 [[Q]](https://leetcode.com/problems/arranging-coins/) ~~[S]~~  0441. Arranging Coins
