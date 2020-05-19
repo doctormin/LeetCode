@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-24%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-25%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -548,7 +548,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/find-the-closest-palindrome/) ~~[S]~~  0564. Find the Closest Palindrome
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/array-nesting/) ~~[S]~~  0565. Array Nesting
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reshape-the-matrix/) ~~[S]~~  0566. Reshape the Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) ~~[S]~~  0567. Permutation in String
+- [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-in-string/) [[S]](./Data%20Structure/Hash%20Table/567.%20Permutation%20in%20String/567-solution.cpp) 0567. Permutation in String
 - [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-vacation-days/) ~~[S]~~  0568. Maximum Vacation Days
 - [ ] 😊 [[Q]](https://leetcode.com/problems/subtree-of-another-tree/) ~~[S]~~  0572. Subtree of Another Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/squirrel-simulation/) ~~[S]~~  0573. Squirrel Simulation
