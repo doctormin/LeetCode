@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-25%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-26%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -853,7 +853,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-ors-of-subarrays/) ~~[S]~~  0898. Bitwise ORs of Subarrays
 - [ ] 😫 [[Q]](https://leetcode.com/problems/orderly-queue/) ~~[S]~~  0899. Orderly Queue
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rle-iterator/) ~~[S]~~  0900. RLE Iterator
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) ~~[S]~~  0901. Online Stock Span
+- [X] 🤨 [[Q]](https://leetcode.com/problems/online-stock-span/) [[S]](./Monotone%20Stack%20Algorithm/901.%20Online%20Stock%20Span/901-solution.py) 0901. Online Stock Span
 - [ ] 😫 [[Q]](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) ~~[S]~~  0902. Numbers At Most N Given Digit Set
 - [ ] 😫 [[Q]](https://leetcode.com/problems/valid-permutations-for-di-sequence/) ~~[S]~~  0903. Valid Permutations for DI Sequence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fruit-into-baskets/) ~~[S]~~  0904. Fruit Into Baskets
