@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-26%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-27%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -216,7 +216,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/basic-calculator-ii/) ~~[S]~~  0227. Basic Calculator II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/summary-ranges/) ~~[S]~~  0228. Summary Ranges
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/majority-element-ii/) ~~[S]~~  0229. Majority Element II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) ~~[S]~~  0230. Kth Smallest Element in a BST
+- [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](./Data%20Structure/BST/230.%20Kth%20Smallest%20Element%20in%20a%20BST/230-solution.cpp) 0230. Kth Smallest Element in a BST
 - [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) ~~[S]~~  0231. Power of Two
 - [ ] 😊 [[Q]](https://leetcode.com/problems/implement-queue-using-stacks/) ~~[S]~~  0232. Implement Queue using Stacks
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-digit-one/) ~~[S]~~  0233. Number of Digit One
