@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-27%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-28%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -960,7 +960,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) ~~[S]~~  1005. Maximize Sum Of Array After K Negations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/clumsy-factorial/) ~~[S]~~  1006. Clumsy Factorial
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) ~~[S]~~  1007. Minimum Domino Rotations For Equal Row
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) ~~[S]~~  1008. Construct Binary Search Tree from Preorder Traversal
+- [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [[S]](./Data%20Structure/BST/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/1008-solution.py) 1008. Construct Binary Search Tree from Preorder Traversal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/complement-of-base-10-integer/) ~~[S]~~  1009. Complement of Base 10 Integer
 - [ ] 😊 [[Q]](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) ~~[S]~~  1010. Pairs of Songs With Total Durations Divisible by 60
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) ~~[S]~~  1011. Capacity To Ship Packages Within D Days
