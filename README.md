@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-28%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-29%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -987,7 +987,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) ~~[S]~~  1032. Stream of Characters
 - [ ] 😊 [[Q]](https://leetcode.com/problems/moving-stones-until-consecutive/) ~~[S]~~  1033. Moving Stones Until Consecutive
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/coloring-a-border/) ~~[S]~~  1034. Coloring A Border
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) ~~[S]~~  1035. Uncrossed Lines
+- [X] 🤨 [[Q]](https://leetcode.com/problems/uncrossed-lines/) [[S]](./DP/1035.%20Uncrossed%20Lines/1035-solution.cpp) 1035. Uncrossed Lines
 - [ ] 😫 [[Q]](https://leetcode.com/problems/escape-a-large-maze/) ~~[S]~~  1036. Escape a Large Maze
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-boomerang/) ~~[S]~~  1037. Valid Boomerang
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) ~~[S]~~  1038. Binary Search Tree to Greater Sum Tree
