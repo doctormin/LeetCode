@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-29%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-30%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -508,7 +508,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) ~~[S]~~  0522. Longest Uncommon Subsequence II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/continuous-subarray-sum/) ~~[S]~~  0523. Continuous Subarray Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) ~~[S]~~  0524. Longest Word in Dictionary through Deleting
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) ~~[S]~~  0525. Contiguous Array
+- [X] 🤨 [[Q]](https://leetcode.com/problems/contiguous-array/) [[S]](./Data%20Structure/Hash%20Table/525.%20Contiguous%20Array/525-solution.py) 0525. Contiguous Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/beautiful-arrangement/) ~~[S]~~  0526. Beautiful Arrangement
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-abbreviation/) ~~[S]~~  0527. Word Abbreviation
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/random-pick-with-weight/) ~~[S]~~  0528. Random Pick with Weight
