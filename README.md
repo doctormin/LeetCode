@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-30%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-31%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -838,7 +838,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/projection-area-of-3d-shapes/) ~~[S]~~  0883. Projection Area of 3D Shapes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ~~[S]~~  0884. Uncommon Words from Two Sentences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-iii/) ~~[S]~~  0885. Spiral Matrix III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) ~~[S]~~  0886. Possible Bipartition
+- [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](./Data%20Structure/Bipartite%20Graph/886.%20Possible%20Bipartition/886-solution.cpp) 0886. Possible Bipartition
 - [ ] 😫 [[Q]](https://leetcode.com/problems/super-egg-drop/) ~~[S]~~  0887. Super Egg Drop
 - [ ] 😊 [[Q]](https://leetcode.com/problems/fair-candy-swap/) ~~[S]~~  0888. Fair Candy Swap
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) ~~[S]~~  0889. Construct Binary Tree from Preorder and Postorder Traversal
