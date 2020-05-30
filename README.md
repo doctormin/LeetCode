@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-31%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-33%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -193,7 +193,7 @@ Yimin's LeetCode solutions.
 - [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./Number%20Theoretic%20Algorithm/204.%20Count%20Primes/204-Sieve-of-Euler.cpp) 0204. Count Primes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~  0205. Isomorphic Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) ~~[S]~~  0206. Reverse Linked List
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) ~~[S]~~  0207. Course Schedule
+- [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./Graph%20Theory/DFS/Topological%20Sort/207.%20Course%20Schedule/207-soulution.cpp) 0207. Course Schedule
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](./May-Challenge/May%2014%20Implement%20Trie%20(Prefix%20Tree)/208-solution.cpp) 0208. Implement Trie (Prefix Tree)
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) ~~[S]~~  0209. Minimum Size Subarray Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) ~~[S]~~  0210. Course Schedule II
@@ -323,7 +323,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/self-crossing/) ~~[S]~~  0335. Self Crossing
 - [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-pairs/) ~~[S]~~  0336. Palindrome Pairs
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/house-robber-iii/) ~~[S]~~  0337. House Robber III
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) ~~[S]~~  0338. Counting Bits
+- [X] 🤨 [[Q]](https://leetcode.com/problems/counting-bits/) [[S]](./Data%20Structure/Array/338.%20Counting%20Bits/338-solution.cpp) 0338. Counting Bits
 - [ ] 😊 [[Q]](https://leetcode.com/problems/nested-list-weight-sum/) ~~[S]~~  0339. Nested List Weight Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) ~~[S]~~  0340. Longest Substring with At Most K Distinct Characters
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-nested-list-iterator/) ~~[S]~~  0341. Flatten Nested List Iterator
@@ -838,7 +838,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/projection-area-of-3d-shapes/) ~~[S]~~  0883. Projection Area of 3D Shapes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/uncommon-words-from-two-sentences/) ~~[S]~~  0884. Uncommon Words from Two Sentences
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-iii/) ~~[S]~~  0885. Spiral Matrix III
-- [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](./Data%20Structure/Bipartite%20Graph/886.%20Possible%20Bipartition/886-solution.cpp) 0886. Possible Bipartition
+- [X] 🤨 [[Q]](https://leetcode.com/problems/possible-bipartition/) [[S]](./Graph%20Theory/Bipartite%20Graph/886.%20Possible%20Bipartition/886-solution.cpp) 0886. Possible Bipartition
 - [ ] 😫 [[Q]](https://leetcode.com/problems/super-egg-drop/) ~~[S]~~  0887. Super Egg Drop
 - [ ] 😊 [[Q]](https://leetcode.com/problems/fair-candy-swap/) ~~[S]~~  0888. Fair Candy Swap
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) ~~[S]~~  0889. Construct Binary Tree from Preorder and Postorder Traversal
