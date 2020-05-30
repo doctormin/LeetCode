@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-33%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-34%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -925,7 +925,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/powerful-integers/) ~~[S]~~  0970. Powerful Integers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) ~~[S]~~  0971. Flip Binary Tree To Match Preorder Traversal
 - [ ] 😫 [[Q]](https://leetcode.com/problems/equal-rational-numbers/) ~~[S]~~  0972. Equal Rational Numbers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) ~~[S]~~  0973. K Closest Points to Origin
+- [X] 🤨 [[Q]](https://leetcode.com/problems/k-closest-points-to-origin/) [[S]](./Data%20Structure/Array/973.%20K%20Closest%20Points%20to%20Origin/973-solution.py) 0973. K Closest Points to Origin
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/subarray-sums-divisible-by-k/) ~~[S]~~  0974. Subarray Sums Divisible by K
 - [ ] 😫 [[Q]](https://leetcode.com/problems/odd-even-jump/) ~~[S]~~  0975. Odd Even Jump
 - [ ] 😊 [[Q]](https://leetcode.com/problems/largest-perimeter-triangle/) ~~[S]~~  0976. Largest Perimeter Triangle
