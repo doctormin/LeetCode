@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-34%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-35%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -74,7 +74,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sqrtx/) ~~[S]~~  0069. Sqrt(x)
 - [ ] 😊 [[Q]](https://leetcode.com/problems/climbing-stairs/) ~~[S]~~  0070. Climbing Stairs
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/simplify-path/) ~~[S]~~  0071. Simplify Path
-- [ ] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) ~~[S]~~  0072. Edit Distance
+- [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](./DP/72.%20Edit%20Distance/72-solution.cpp) 0072. Edit Distance
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/set-matrix-zeroes/) ~~[S]~~  0073. Set Matrix Zeroes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) ~~[S]~~  0074. Search a 2D Matrix
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) ~~[S]~~  0075. Sort Colors
