@@ -1,9 +1,9 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-37%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-38%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
-- [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum/) ~~[S]~~  0001. Two Sum
+- [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./Data%20Structure/Array/1.%20Two%20Sum/1-solution.py) 0001. Two Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) ~~[S]~~  0002. Add Two Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ~~[S]~~  0003. Longest Substring Without Repeating Characters
 - [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~  0004. Median of Two Sorted Arrays
@@ -1321,3 +1321,27 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) ~~[S]~~  1437. Check If All 1's Are at Least Length K Places Away
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) ~~[S]~~  1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
 - [ ] 😫 [[Q]](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) ~~[S]~~  1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows
+- [ ] 😊 [[Q]](https://leetcode.com/problems/build-an-array-with-stack-operations/) ~~[S]~~  1441. Build an Array With Stack Operations
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) ~~[S]~~  1442. Count Triplets That Can Form Two Arrays of Equal XOR
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) ~~[S]~~  1443. Minimum Time to Collect All Apples in a Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) ~~[S]~~  1444. Number of Ways of Cutting a Pizza
+- [ ] 😊 [[Q]](https://leetcode.com/problems/consecutive-characters/) ~~[S]~~  1446. Consecutive Characters
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/simplified-fractions/) ~~[S]~~  1447. Simplified Fractions
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) ~~[S]~~  1448. Count Good Nodes in Binary Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) ~~[S]~~  1449. Form Largest Integer With Digits That Add up to Target
+- [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) ~~[S]~~  1450. Number of Students Doing Homework at a Given Time
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/rearrange-words-in-a-sentence/) ~~[S]~~  1451. Rearrange Words in a Sentence
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) ~~[S]~~  1452. People Whose List of Favorite Companies Is Not a Subset of Another List
+- [ ] 😫 [[Q]](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) ~~[S]~~  1453. Maximum Number of Darts Inside of a Circular Dartboard
+- [ ] 😊 [[Q]](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) ~~[S]~~  1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) ~~[S]~~  1456. Maximum Number of Vowels in a Substring of Given Length
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) ~~[S]~~  1457. Pseudo-Palindromic Paths in a Binary Tree
+- [ ] 😫 [[Q]](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) ~~[S]~~  1458. Max Dot Product of Two Subsequences
+- [ ] 😊 [[Q]](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) ~~[S]~~  1460. Make Two Arrays Equal by Reversing Sub-arrays
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) ~~[S]~~  1461. Check If a String Contains All Binary Codes of Size K
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-iv/) ~~[S]~~  1462. Course Schedule IV
+- [ ] 😫 [[Q]](https://leetcode.com/problems/cherry-pickup-ii/) ~~[S]~~  1463. Cherry Pickup II
+- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) ~~[S]~~  1464. Maximum Product of Two Elements in an Array
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) ~~[S]~~  1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+- [ ] 🤨 [[Q]](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) ~~[S]~~  1466. Reorder Routes to Make All Paths Lead to the City Zero
+- [ ] 😫 [[Q]](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) ~~[S]~~  1467. Probability of a Two Boxes Having The Same Number of Distinct Balls
