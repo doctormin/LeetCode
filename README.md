@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-36%20%2F%201318-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-37%20%2F%201318-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -223,7 +223,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-linked-list/) ~~[S]~~  0234. Palindrome Linked List
 - [ ] 😊 [[Q]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) ~~[S]~~  0235. Lowest Common Ancestor of a Binary Search Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) ~~[S]~~  0236. Lowest Common Ancestor of a Binary Tree
-- [ ] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) ~~[S]~~  0237. Delete Node in a Linked List
+- [X] 😊 [[Q]](https://leetcode.com/problems/delete-node-in-a-linked-list/) [[S]](./Data%20Structure/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List/237-solution.py) 0237. Delete Node in a Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/product-of-array-except-self/) ~~[S]~~  0238. Product of Array Except Self
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sliding-window-maximum/) ~~[S]~~  0239. Sliding Window Maximum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix-ii/) ~~[S]~~  0240. Search a 2D Matrix II
