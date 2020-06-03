@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-38%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-39%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -23,7 +23,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/4sum/) ~~[S]~~  0018. 4Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ~~[S]~~  0019. Remove Nth Node From End of List
 - [ ] 😊 [[Q]](https://leetcode.com/problems/valid-parentheses/) ~~[S]~~  0020. Valid Parentheses
-- [ ] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) ~~[S]~~  0021. Merge Two Sorted Lists
+- [X] 😊 [[Q]](https://leetcode.com/problems/merge-two-sorted-lists/) [[S]](./Data%20Structure/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists/21-solution.cpp) 0021. Merge Two Sorted Lists
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/generate-parentheses/) ~~[S]~~  0022. Generate Parentheses
 - [ ] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) ~~[S]~~  0023. Merge k Sorted Lists
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/swap-nodes-in-pairs/) ~~[S]~~  0024. Swap Nodes in Pairs
