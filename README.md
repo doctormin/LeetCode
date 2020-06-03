@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-39%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-40%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -33,7 +33,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/implement-strstr/) ~~[S]~~  0028. Implement strStr()
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) ~~[S]~~  0029. Divide Two Integers
 - [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~  0030. Substring with Concatenation of All Words
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) ~~[S]~~  0031. Next Permutation
+- [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](./Data%20Structure/Array/31.%20Next%20Permutation/31-solution.cpp) 0031. Next Permutation
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) ~~[S]~~  0032. Longest Valid Parentheses
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) ~~[S]~~  0033. Search in Rotated Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) ~~[S]~~  0034. Find First and Last Position of Element in Sorted Array
