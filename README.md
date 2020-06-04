@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-40%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-41%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -981,7 +981,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) ~~[S]~~  1026. Maximum Difference Between Node and Ancestor
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-arithmetic-sequence/) ~~[S]~~  1027. Longest Arithmetic Sequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) ~~[S]~~  1028. Recover a Tree From Preorder Traversal
-- [ ] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) ~~[S]~~  1029. Two City Scheduling
+- [X] 😊 [[Q]](https://leetcode.com/problems/two-city-scheduling/) [[S]](./Data%20Structure/Array/1029.%20Two%20City%20Scheduling/1029-solution.py) 1029. Two City Scheduling
 - [ ] 😊 [[Q]](https://leetcode.com/problems/matrix-cells-in-distance-order/) ~~[S]~~  1030. Matrix Cells in Distance Order
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) ~~[S]~~  1031. Maximum Sum of Two Non-Overlapping Subarrays
 - [ ] 😫 [[Q]](https://leetcode.com/problems/stream-of-characters/) ~~[S]~~  1032. Stream of Characters
