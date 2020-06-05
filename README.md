@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-41%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-42%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -329,7 +329,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-nested-list-iterator/) ~~[S]~~  0341. Flatten Nested List Iterator
 - [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-four/) ~~[S]~~  0342. Power of Four
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-break/) ~~[S]~~  0343. Integer Break
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) ~~[S]~~  0344. Reverse String
+- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./Data%20Structure/Array/344.%20Reverse%20String/344-solution.py) 0344. Reverse String
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-vowels-of-a-string/) ~~[S]~~  0345. Reverse Vowels of a String
 - [ ] 😊 [[Q]](https://leetcode.com/problems/moving-average-from-data-stream/) ~~[S]~~  0346. Moving Average from Data Stream
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) ~~[S]~~  0347. Top K Frequent Elements
