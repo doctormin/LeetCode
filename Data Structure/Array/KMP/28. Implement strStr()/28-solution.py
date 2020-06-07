@@ -2,43 +2,47 @@
 
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
-        if needle == []:
+        if needle == "":
             return 0
-        next = self.computeNext(needle)
-        i = 0 
-        j = 0 
-        while i <= len(haystack):
-            if haystack[i] == needle[j]:
+        A = "x" + haystack
+        B = "x" + needle
+        n = len(haystack) 
+        m = len(needle)
+
+        next = self.computeNext(B, m)
+        i = 1
+        j = 1 
+
+        while i <= n:
+            if A[i] == B[j]:
                 i += 1
                 j += 1
-            if j == len(needle):
-                return i - len(needle)
+            if j == m + 1:
+                return i - len(needle) - 1
             else:
-                while needle[j] != haystack[i]:
+                while i <= n and B[j] != A[i]:
                     j = next[j] + 1
                     if j == 0:
                         i += 1
-                        j += 1
+                        j = 1
                         break
         return -1
         
-    def computeNext(self, needle: str):
-        next    = []
-        next.insert(0, -1)
-        if len(needle) > 1:
-            next.insert(1, 0)
-        if len(needle) > 2:
-            for i in range(2, len(needle) - 1):
-                j = next[i-1] + 1
-                while needle[i-1] != needle[j] and j > 0:
-                    j = next[j] + 1
-                next.insert(i, j)    
-        print(next)
-        return next
+    def computeNext(self, B: str, m: int):
+       next = []
+       next.insert(0, "x")
+       next.insert(1, -1)
+       next.insert(2, 0)
+       for i in range(3, m+1):
+           j = next[i-1] + 1
+           while B[j] != B[i - 1] and j > 0:
+               j = next[j] + 1
+           next.insert(i, j)
+       return next
 
 
 if __name__ == "__main__":
     x = Solution()
-    print(x.strStr("hello", "llo"))
+    print(x.strStr("mississippi", "issip"))
 
 
