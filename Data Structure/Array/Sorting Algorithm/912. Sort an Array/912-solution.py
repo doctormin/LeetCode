@@ -15,7 +15,7 @@ class Solution:
             return nums
         mid = len(nums) // 2
         #print(nums[:mid])
-        # print(nums[mid:])
+        #print(nums[mid:])
         left = self.sortArray(nums[:mid])
         right = self.sortArray(nums[mid:])
         return self.merge(left, right)
@@ -37,5 +37,5 @@ class Solution:
                 if p2 == len(B):
                     ans += A[p1:]
                     break
-        # print(f"A = {A}, B = {B},  ans = {ans}")
+        #print(f"A = {A}, B = {B},  ans = {ans}")
         return ans
