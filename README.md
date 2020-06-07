@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-43%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-46%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -30,7 +30,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) ~~[S]~~  0025. Reverse Nodes in k-Group
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ~~[S]~~  0026. Remove Duplicates from Sorted Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-element/) ~~[S]~~  0027. Remove Element
-- [ ] 😊 [[Q]](https://leetcode.com/problems/implement-strstr/) ~~[S]~~  0028. Implement strStr()
+- [X] 😊 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](./Data%20Structure/Array/KMP/28.%20Implement%20strStr()/28-solution.py) 0028. Implement strStr()
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) ~~[S]~~  0029. Divide Two Integers
 - [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~  0030. Substring with Concatenation of All Words
 - [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](./Data%20Structure/Array/31.%20Next%20Permutation/31-solution.cpp) 0031. Next Permutation
@@ -285,7 +285,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) ~~[S]~~  0297. Serialize and Deserialize Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) ~~[S]~~  0298. Binary Tree Longest Consecutive Sequence
 - [ ] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) ~~[S]~~  0299. Bulls and Cows
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) ~~[S]~~  0300. Longest Increasing Subsequence
+- [X] 🤨 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./Data%20Structure/Array/300.%20Longest%20Increasing%20Subsequence/300-solution.py) 0300. Longest Increasing Subsequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/remove-invalid-parentheses/) ~~[S]~~  0301. Remove Invalid Parentheses
 - [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) ~~[S]~~  0302. Smallest Rectangle Enclosing Black Pixels
 - [ ] 😊 [[Q]](https://leetcode.com/problems/range-sum-query-immutable/) ~~[S]~~  0303. Range Sum Query - Immutable
@@ -864,7 +864,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/snakes-and-ladders/) ~~[S]~~  0909. Snakes and Ladders
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-range-ii/) ~~[S]~~  0910. Smallest Range II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/online-election/) ~~[S]~~  0911. Online Election
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) ~~[S]~~  0912. Sort an Array
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-an-array/) [[S]](./Data%20Structure/Array/Sorting%20Algorithm/912.%20Sort%20an%20Array/912-solution.py) 0912. Sort an Array
 - [ ] 😫 [[Q]](https://leetcode.com/problems/cat-and-mouse/) ~~[S]~~  0913. Cat and Mouse
 - [ ] 😊 [[Q]](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) ~~[S]~~  0914. X of a Kind in a Deck of Cards
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) ~~[S]~~  0915. Partition Array into Disjoint Intervals
