@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-47%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-48%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -30,10 +30,10 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) ~~[S]~~  0025. Reverse Nodes in k-Group
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ~~[S]~~  0026. Remove Duplicates from Sorted Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-element/) ~~[S]~~  0027. Remove Element
-- [X] 😊 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](./Data%20Structure/Array/KMP/28.%20Implement%20strStr()/28-solution.py) 0028. Implement strStr()
+- [X] 😊 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](./Data%20Structure/Array/String/KMP/28.%20Implement%20strStr()/28-solution.py) 0028. Implement strStr()
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) ~~[S]~~  0029. Divide Two Integers
 - [ ] 😫 [[Q]](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ~~[S]~~  0030. Substring with Concatenation of All Words
-- [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](./Data%20Structure/Array/31.%20Next%20Permutation/31-solution.cpp) 0031. Next Permutation
+- [X] 🤨 [[Q]](https://leetcode.com/problems/next-permutation/) [[S]](./Data%20Structure/Array/String/31.%20Next%20Permutation/31-solution.cpp) 0031. Next Permutation
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) ~~[S]~~  0032. Longest Valid Parentheses
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) ~~[S]~~  0033. Search in Rotated Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) ~~[S]~~  0034. Find First and Last Position of Element in Sorted Array
@@ -329,7 +329,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/flatten-nested-list-iterator/) ~~[S]~~  0341. Flatten Nested List Iterator
 - [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-four/) ~~[S]~~  0342. Power of Four
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/integer-break/) ~~[S]~~  0343. Integer Break
-- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./Data%20Structure/Array/344.%20Reverse%20String/344-solution.py) 0344. Reverse String
+- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-string/) [[S]](./Data%20Structure/Array/String/344.%20Reverse%20String/344-solution.py) 0344. Reverse String
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-vowels-of-a-string/) ~~[S]~~  0345. Reverse Vowels of a String
 - [ ] 😊 [[Q]](https://leetcode.com/problems/moving-average-from-data-stream/) ~~[S]~~  0346. Moving Average from Data Stream
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/top-k-frequent-elements/) ~~[S]~~  0347. Top K Frequent Elements
@@ -868,8 +868,8 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/cat-and-mouse/) ~~[S]~~  0913. Cat and Mouse
 - [ ] 😊 [[Q]](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) ~~[S]~~  0914. X of a Kind in a Deck of Cards
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) ~~[S]~~  0915. Partition Array into Disjoint Intervals
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/word-subsets/) ~~[S]~~  0916. Word Subsets
-- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-only-letters/) [[S]](./Data%20Structure/Array/917.%20Reverse%20Only%20Letters/917-solution.py) 0917. Reverse Only Letters
+- [X] 🤨 [[Q]](https://leetcode.com/problems/word-subsets/) [[S]](./Data%20Structure/Array/String/916.%20Word%20Subsets/916-solution.py) 0916. Word Subsets
+- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-only-letters/) [[S]](./Data%20Structure/Array/String/917.%20Reverse%20Only%20Letters/917-solution.py) 0917. Reverse Only Letters
 - [X] 🤨 [[Q]](https://leetcode.com/problems/maximum-sum-circular-subarray/) [[S]](./DP/Kadane's%20Algorithm/918.%20Maximum%20Sum%20Circular%20Subarray/918-solution.py) 0918. Maximum Sum Circular Subarray
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/complete-binary-tree-inserter/) ~~[S]~~  0919. Complete Binary Tree Inserter
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-music-playlists/) ~~[S]~~  0920. Number of Music Playlists
