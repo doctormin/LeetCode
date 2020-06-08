@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-48%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-49%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -9,7 +9,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~  0004. Median of Two Sorted Arrays
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) ~~[S]~~  0005. Longest Palindromic Substring
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) ~~[S]~~  0006. ZigZag Conversion
-- [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) ~~[S]~~  0007. Reverse Integer
+- [X] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) [[S]](./Data%20Structure/Array/7.%20Reverse%20Integer/7-solution.py) 0007. Reverse Integer
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) ~~[S]~~  0008. String to Integer (atoi)
 - [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-number/) ~~[S]~~  0009. Palindrome Number
 - [ ] 😫 [[Q]](https://leetcode.com/problems/regular-expression-matching/) ~~[S]~~  0010. Regular Expression Matching
