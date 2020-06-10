@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-51%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-52%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -37,7 +37,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-valid-parentheses/) ~~[S]~~  0032. Longest Valid Parentheses
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-rotated-sorted-array/) ~~[S]~~  0033. Search in Rotated Sorted Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) ~~[S]~~  0034. Find First and Last Position of Element in Sorted Array
-- [ ] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) ~~[S]~~  0035. Search Insert Position
+- [X] 😊 [[Q]](https://leetcode.com/problems/search-insert-position/) [[S]](./Data%20Structure/Array/Sorting%20Algorithm/35.%20Search%20Insert%20Position/35-solution.py) 0035. Search Insert Position
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/valid-sudoku/) ~~[S]~~  0036. Valid Sudoku
 - [ ] 😫 [[Q]](https://leetcode.com/problems/sudoku-solver/) ~~[S]~~  0037. Sudoku Solver
 - [ ] 😊 [[Q]](https://leetcode.com/problems/count-and-say/) ~~[S]~~  0038. Count and Say
