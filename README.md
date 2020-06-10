@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-52%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-53%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -106,7 +106,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/symmetric-tree/) ~~[S]~~  0101. Symmetric Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) ~~[S]~~  0102. Binary Tree Level Order Traversal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) ~~[S]~~  0103. Binary Tree Zigzag Level Order Traversal
-- [ ] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ~~[S]~~  0104. Maximum Depth of Binary Tree
+- [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[S]](./Data%20Structure/Binary%20Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree/104-solution.cpp) 0104. Maximum Depth of Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ~~[S]~~  0105. Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) ~~[S]~~  0106. Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) ~~[S]~~  0107. Binary Tree Level Order Traversal II
@@ -190,7 +190,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) ~~[S]~~  0201. Bitwise AND of Numbers Range
 - [ ] 😊 [[Q]](https://leetcode.com/problems/happy-number/) ~~[S]~~  0202. Happy Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) ~~[S]~~  0203. Remove Linked List Elements
-- [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./Number%20Theoretic%20Algorithm/204.%20Count%20Primes/204-Sieve-of-Eratosthenes.cpp) 0204. Count Primes
+- [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./Number%20Theoretic%20Algorithm/204.%20Count%20Primes/204-Sieve-of-Euler.cpp) 0204. Count Primes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~  0205. Isomorphic Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) ~~[S]~~  0206. Reverse Linked List
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./Graph%20Theory/DFS/Topological%20Sort/207.%20Course%20Schedule/207-soulution.cpp) 0207. Course Schedule
@@ -313,7 +313,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) ~~[S]~~  0325. Maximum Size Subarray Sum Equals k
 - [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) ~~[S]~~  0326. Power of Three
 - [ ] 😫 [[Q]](https://leetcode.com/problems/count-of-range-sum/) ~~[S]~~  0327. Count of Range Sum
-- [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./Data%20Structure/Linked%20List/328.%20Odd%20Even%20Linked%20List/328-solution.cpp) 0328. Odd Even Linked List
+- [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./Data%20Structure/Linked%20List/328.%20Odd%20Even%20Linked%20List/328-solution.py) 0328. Odd Even Linked List
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) ~~[S]~~  0329. Longest Increasing Path in a Matrix
 - [ ] 😫 [[Q]](https://leetcode.com/problems/patching-array/) ~~[S]~~  0330. Patching Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) ~~[S]~~  0331. Verify Preorder Serialization of a Binary Tree
@@ -387,7 +387,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/evaluate-division/) ~~[S]~~  0399. Evaluate Division
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/nth-digit/) ~~[S]~~  0400. Nth Digit
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-watch/) ~~[S]~~  0401. Binary Watch
-- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](./Monotone%20Stack%20Algorithm/402.%20Remove%20K%20Digits/402-solution.cpp) 0402. Remove K Digits
+- [X] 🤨 [[Q]](https://leetcode.com/problems/remove-k-digits/) [[S]](./Monotone%20Stack%20Algorithm/402.%20Remove%20K%20Digits/402-solution.py) 0402. Remove K Digits
 - [ ] 😫 [[Q]](https://leetcode.com/problems/frog-jump/) ~~[S]~~  0403. Frog Jump
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-left-leaves/) ~~[S]~~  0404. Sum of Left Leaves
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) ~~[S]~~  0405. Convert a Number to Hexadecimal
