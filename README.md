@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-50%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-51%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -377,7 +377,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-the-difference/) ~~[S]~~  0389. Find the Difference
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/elimination-game/) ~~[S]~~  0390. Elimination Game
 - [ ] 😫 [[Q]](https://leetcode.com/problems/perfect-rectangle/) ~~[S]~~  0391. Perfect Rectangle
-- [ ] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) ~~[S]~~  0392. Is Subsequence
+- [X] 😊 [[Q]](https://leetcode.com/problems/is-subsequence/) [[S]](./Data%20Structure/Array/String/392.%20Is%20Subsequence/392-solution.py) 0392. Is Subsequence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/utf-8-validation/) ~~[S]~~  0393. UTF-8 Validation
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/decode-string/) ~~[S]~~  0394. Decode String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) ~~[S]~~  0395. Longest Substring with At Least K Repeating Characters
