@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/longest-increasing-subsequence/
 '''
-著名的最长子序列问题 --- LIS
+著名的最长递增子序列问题 --- LIS （不要求连续）
 使用数归的思想 可以做到 O(nlogn)  (原数列长度为n)
 
 算法思路：
