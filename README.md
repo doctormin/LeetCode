@@ -1,11 +1,11 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-53%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-55%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./Data%20Structure/Array/1.%20Two%20Sum/1-solution.py) 0001. Two Sum
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) ~~[S]~~  0002. Add Two Numbers
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ~~[S]~~  0003. Longest Substring Without Repeating Characters
+- [X] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](./Data%20Structure/Array/String/3.%20Longest%20Substring%20Without%20Repeating%20Characters/3-solution.cpp) 0003. Longest Substring Without Repeating Characters
 - [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~  0004. Median of Two Sorted Arrays
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) ~~[S]~~  0005. Longest Palindromic Substring
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) ~~[S]~~  0006. ZigZag Conversion
@@ -77,7 +77,7 @@ Yimin's LeetCode solutions.
 - [X] 😫 [[Q]](https://leetcode.com/problems/edit-distance/) [[S]](./DP/72.%20Edit%20Distance/72-solution.cpp) 0072. Edit Distance
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/set-matrix-zeroes/) ~~[S]~~  0073. Set Matrix Zeroes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-a-2d-matrix/) ~~[S]~~  0074. Search a 2D Matrix
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) ~~[S]~~  0075. Sort Colors
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sort-colors/) [[S]](./Data%20Structure/Array/Sorting%20Algorithm/75.%20Sort%20Colors/75-solution.cpp) 0075. Sort Colors
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-window-substring/) ~~[S]~~  0076. Minimum Window Substring
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combinations/) ~~[S]~~  0077. Combinations
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/subsets/) ~~[S]~~  0078. Subsets

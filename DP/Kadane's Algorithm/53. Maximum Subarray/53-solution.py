@@ -8,7 +8,7 @@
 @Max :  遍历过程中localMax的最大值
 
 算法过程是将序列从头到尾遍历一次，维护localMax和Max:
-localMax = max{nums[i], localMax + nums[i]} (即要么把前面都甩掉，要么都留着)
+localMax = max(nums[i], localMax + nums[i]) (即要么把前面都甩掉，要么都留着)
 Max = max{localMax, Max}
 '''
 
