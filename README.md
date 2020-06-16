@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-56%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-58%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -501,7 +501,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) ~~[S]~~  0515. Find Largest Value in Each Tree Row
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-subsequence/) ~~[S]~~  0516. Longest Palindromic Subsequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/super-washing-machines/) ~~[S]~~  0517. Super Washing Machines
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) ~~[S]~~  0518. Coin Change 2
+- [X] 🤨 [[Q]](https://leetcode.com/problems/coin-change-2/) [[S]](./DP/518.%20Coin%20Change%202/518-solution.cpp) 0518. Coin Change 2
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/random-flip-matrix/) ~~[S]~~  0519. Random Flip Matrix
 - [ ] 😊 [[Q]](https://leetcode.com/problems/detect-capital/) ~~[S]~~  0520. Detect Capital
 - [ ] 😊 [[Q]](https://leetcode.com/problems/longest-uncommon-subsequence-i/) ~~[S]~~  0521. Longest Uncommon Subsequence I 
@@ -739,7 +739,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/letter-case-permutation/) ~~[S]~~  0784. Letter Case Permutation
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/is-graph-bipartite/) ~~[S]~~  0785. Is Graph Bipartite?
 - [ ] 😫 [[Q]](https://leetcode.com/problems/k-th-smallest-prime-fraction/) ~~[S]~~  0786. K-th Smallest Prime Fraction
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) ~~[S]~~  0787. Cheapest Flights Within K Stops
+- [X] 🤨 [[Q]](https://leetcode.com/problems/cheapest-flights-within-k-stops/) [[S]](./Graph%20Theory/Shortest%20Path/787.%20Cheapest%20Flights%20Within%20K%20Stops/787-solution.cpp) 0787. Cheapest Flights Within K Stops
 - [ ] 😊 [[Q]](https://leetcode.com/problems/rotated-digits/) ~~[S]~~  0788. Rotated Digits
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/escape-the-ghosts/) ~~[S]~~  0789. Escape The Ghosts
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/domino-and-tromino-tiling/) ~~[S]~~  0790. Domino and Tromino Tiling
