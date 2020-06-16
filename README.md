@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-55%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-56%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -652,7 +652,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/degree-of-an-array/) ~~[S]~~  0697. Degree of an Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) ~~[S]~~  0698. Partition to K Equal Sum Subsets
 - [ ] 😫 [[Q]](https://leetcode.com/problems/falling-squares/) ~~[S]~~  0699. Falling Squares
-- [ ] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) ~~[S]~~  0700. Search in a Binary Search Tree
+- [X] 😊 [[Q]](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[S]](./Data%20Structure/Binary%20Tree/BST/700.%20Search%20in%20a%20Binary%20Search%20Tree/700-solution.cpp) 0700. Search in a Binary Search Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-binary-search-tree/) ~~[S]~~  0701. Insert into a Binary Search Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) ~~[S]~~  0702. Search in a Sorted Array of Unknown Size
 - [ ] 😊 [[Q]](https://leetcode.com/problems/kth-largest-element-in-a-stream/) ~~[S]~~  0703. Kth Largest Element in a Stream
