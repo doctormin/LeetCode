@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-60%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-62%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -62,7 +62,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/insert-interval/) ~~[S]~~  0057. Insert Interval
 - [ ] 😊 [[Q]](https://leetcode.com/problems/length-of-last-word/) ~~[S]~~  0058. Length of Last Word
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/spiral-matrix-ii/) ~~[S]~~  0059. Spiral Matrix II
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) ~~[S]~~  0060. Permutation Sequence
+- [X] 🤨 [[Q]](https://leetcode.com/problems/permutation-sequence/) [[S]](./Data%20Structure/Array/String/60.%20Permutation%20Sequence/60-solution.cpp) 0060. Permutation Sequence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-list/) ~~[S]~~  0061. Rotate List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-paths/) ~~[S]~~  0062. Unique Paths
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-paths-ii/) ~~[S]~~  0063. Unique Paths II
@@ -260,7 +260,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) ~~[S]~~  0272. Closest Binary Search Tree Value II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/integer-to-english-words/) ~~[S]~~  0273. Integer to English Words
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index/) ~~[S]~~  0274. H-Index
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) ~~[S]~~  0275. H-Index II
+- [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](./Data%20Structure/Array/Sorting%20Algorithm/275.%20H-Index%20II/275-solution.py) 0275. H-Index II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~  0276. Paint Fence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-celebrity/) ~~[S]~~  0277. Find the Celebrity
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./May-Challenge/May%201%20First%20Bad%20Version/278-solution.cpp) 0278. First Bad Version
