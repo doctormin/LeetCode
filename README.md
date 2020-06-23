@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-62%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-63%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -208,7 +208,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate-ii/) ~~[S]~~  0219. Contains Duplicate II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/contains-duplicate-iii/) ~~[S]~~  0220. Contains Duplicate III
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximal-square/) ~~[S]~~  0221. Maximal Square
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) ~~[S]~~  0222. Count Complete Tree Nodes
+- [X] 🤨 [[Q]](https://leetcode.com/problems/count-complete-tree-nodes/) [[S]](./Data%20Structure/Binary%20Tree/222.%20Count%20Complete%20Tree%20Nodes/222-solution.cpp) 0222. Count Complete Tree Nodes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rectangle-area/) ~~[S]~~  0223. Rectangle Area
 - [ ] 😫 [[Q]](https://leetcode.com/problems/basic-calculator/) ~~[S]~~  0224. Basic Calculator
 - [ ] 😊 [[Q]](https://leetcode.com/problems/implement-stack-using-queues/) ~~[S]~~  0225. Implement Stack using Queues
