@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-64%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-65%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -272,7 +272,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/peeking-iterator/) ~~[S]~~  0284. Peeking Iterator
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/inorder-successor-in-bst/) ~~[S]~~  0285. Inorder Successor in BST
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/walls-and-gates/) ~~[S]~~  0286. Walls and Gates
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) ~~[S]~~  0287. Find the Duplicate Number
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-the-duplicate-number/) [[S]](./Data%20Structure/Array/287.%20Find%20the%20Duplicate%20Number/287-solution.py) 0287. Find the Duplicate Number
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/unique-word-abbreviation/) ~~[S]~~  0288. Unique Word Abbreviation
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/game-of-life/) ~~[S]~~  0289. Game of Life
 - [ ] 😊 [[Q]](https://leetcode.com/problems/word-pattern/) ~~[S]~~  0290. Word Pattern
