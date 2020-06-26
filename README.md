@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-65%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-66%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -131,7 +131,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-ladder-ii/) ~~[S]~~  0126. Word Ladder II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/word-ladder/) ~~[S]~~  0127. Word Ladder
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-consecutive-sequence/) ~~[S]~~  0128. Longest Consecutive Sequence
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) ~~[S]~~  0129. Sum Root to Leaf Numbers
+- [X] 🤨 [[Q]](https://leetcode.com/problems/sum-root-to-leaf-numbers/) [[S]](./Data%20Structure/Binary%20Tree/129.%20Sum%20Root%20to%20Leaf%20Numbers/129-solution.py) 0129. Sum Root to Leaf Numbers
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/surrounded-regions/) ~~[S]~~  0130. Surrounded Regions
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/palindrome-partitioning/) ~~[S]~~  0131. Palindrome Partitioning
 - [ ] 😫 [[Q]](https://leetcode.com/problems/palindrome-partitioning-ii/) ~~[S]~~  0132. Palindrome Partitioning II
