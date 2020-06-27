@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-66%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-67%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -264,7 +264,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~  0276. Paint Fence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-celebrity/) ~~[S]~~  0277. Find the Celebrity
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./May-Challenge/May%201%20First%20Bad%20Version/278-solution.cpp) 0278. First Bad Version
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) ~~[S]~~  0279. Perfect Squares
+- [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./Number%20Theoretic%20Algorithm/279.%20Perfect%20Squares/279-solution.cpp) 0279. Perfect Squares
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort/) ~~[S]~~  0280. Wiggle Sort
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-iterator/) ~~[S]~~  0281. Zigzag Iterator
 - [ ] 😫 [[Q]](https://leetcode.com/problems/expression-add-operators/) ~~[S]~~  0282. Expression Add Operators
