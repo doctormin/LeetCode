@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-67%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-68%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -28,7 +28,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/merge-k-sorted-lists/) ~~[S]~~  0023. Merge k Sorted Lists
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/swap-nodes-in-pairs/) ~~[S]~~  0024. Swap Nodes in Pairs
 - [ ] 😫 [[Q]](https://leetcode.com/problems/reverse-nodes-in-k-group/) ~~[S]~~  0025. Reverse Nodes in k-Group
-- [ ] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ~~[S]~~  0026. Remove Duplicates from Sorted Array
+- [X] 😊 [[Q]](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [[S]](./Data%20Structure/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array/26-solution.py) 0026. Remove Duplicates from Sorted Array
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-element/) ~~[S]~~  0027. Remove Element
 - [X] 😊 [[Q]](https://leetcode.com/problems/implement-strstr/) [[S]](./Data%20Structure/Array/String/KMP/28.%20Implement%20strStr()/28-solution.py) 0028. Implement strStr()
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/divide-two-integers/) ~~[S]~~  0029. Divide Two Integers
