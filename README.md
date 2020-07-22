@@ -1,10 +1,10 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-68%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-69%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
 - [X] 😊 [[Q]](https://leetcode.com/problems/two-sum/) [[S]](./Data%20Structure/Array/1.%20Two%20Sum/1-solution.py) 0001. Two Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) ~~[S]~~  0002. Add Two Numbers
+- [X] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) [[S]](./Coputational%20Problems/2.%20Add%20Two%20Numbers/2-solution.cpp) 0002. Add Two Numbers
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](./Data%20Structure/Array/String/3.%20Longest%20Substring%20Without%20Repeating%20Characters/3-solution.cpp) 0003. Longest Substring Without Repeating Characters
 - [ ] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) ~~[S]~~  0004. Median of Two Sorted Arrays
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) ~~[S]~~  0005. Longest Palindromic Substring
@@ -52,7 +52,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/permutations-ii/) ~~[S]~~  0047. Permutations II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/rotate-image/) ~~[S]~~  0048. Rotate Image
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/group-anagrams/) ~~[S]~~  0049. Group Anagrams
-- [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](./Number%20Theoretic%20Algorithm/50.%20Pow(x,%20n)/50-solution.py) 0050. Pow(x, n)
+- [X] 🤨 [[Q]](https://leetcode.com/problems/powx-n/) [[S]](./Coputational%20Problems/50.%20Pow(x,%20n)/50-solution.py) 0050. Pow(x, n)
 - [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens/) ~~[S]~~  0051. N-Queens
 - [ ] 😫 [[Q]](https://leetcode.com/problems/n-queens-ii/) ~~[S]~~  0052. N-Queens II
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-subarray/) [[S]](./DP/Kadane's%20Algorithm/53.%20Maximum%20Subarray/53-solution.py) 0053. Maximum Subarray
@@ -171,7 +171,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fraction-to-recurring-decimal/) ~~[S]~~  0166. Fraction to Recurring Decimal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ~~[S]~~  0167. Two Sum II - Input array is sorted
 - [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-title/) ~~[S]~~  0168. Excel Sheet Column Title
-- [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./Number%20Theoretic%20Algorithm/169.%20Majority%20Element/169-solution.py) 0169. Majority Element
+- [X] 😊 [[Q]](https://leetcode.com/problems/majority-element/) [[S]](./Coputational%20Problems/169.%20Majority%20Element/169-solution.py) 0169. Majority Element
 - [ ] 😊 [[Q]](https://leetcode.com/problems/two-sum-iii-data-structure-design/) ~~[S]~~  0170. Two Sum III - Data structure design
 - [ ] 😊 [[Q]](https://leetcode.com/problems/excel-sheet-column-number/) ~~[S]~~  0171. Excel Sheet Column Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/factorial-trailing-zeroes/) ~~[S]~~  0172. Factorial Trailing Zeroes
@@ -190,7 +190,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/bitwise-and-of-numbers-range/) ~~[S]~~  0201. Bitwise AND of Numbers Range
 - [ ] 😊 [[Q]](https://leetcode.com/problems/happy-number/) ~~[S]~~  0202. Happy Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/remove-linked-list-elements/) ~~[S]~~  0203. Remove Linked List Elements
-- [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./Number%20Theoretic%20Algorithm/204.%20Count%20Primes/204-Sieve-of-Euler.cpp) 0204. Count Primes
+- [X] 😊 [[Q]](https://leetcode.com/problems/count-primes/) [[S]](./Coputational%20Problems/204.%20Count%20Primes/204-Sieve-of-Euler.cpp) 0204. Count Primes
 - [ ] 😊 [[Q]](https://leetcode.com/problems/isomorphic-strings/) ~~[S]~~  0205. Isomorphic Strings
 - [ ] 😊 [[Q]](https://leetcode.com/problems/reverse-linked-list/) ~~[S]~~  0206. Reverse Linked List
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./Graph%20Theory/DFS/Topological%20Sort/207.%20Course%20Schedule/207-soulution.cpp) 0207. Course Schedule
@@ -217,7 +217,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/summary-ranges/) ~~[S]~~  0228. Summary Ranges
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/majority-element-ii/) ~~[S]~~  0229. Majority Element II
 - [X] 🤨 [[Q]](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[S]](./Data%20Structure/Binary%20Tree/BST/230.%20Kth%20Smallest%20Element%20in%20a%20BST/230-solution.cpp) 0230. Kth Smallest Element in a BST
-- [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](./Number%20Theoretic%20Algorithm/231.%20Power%20of%20Two/231-solution.py) 0231. Power of Two
+- [X] 😊 [[Q]](https://leetcode.com/problems/power-of-two/) [[S]](./Coputational%20Problems/231.%20Power%20of%20Two/231-solution.py) 0231. Power of Two
 - [ ] 😊 [[Q]](https://leetcode.com/problems/implement-queue-using-stacks/) ~~[S]~~  0232. Implement Queue using Stacks
 - [ ] 😫 [[Q]](https://leetcode.com/problems/number-of-digit-one/) ~~[S]~~  0233. Number of Digit One
 - [ ] 😊 [[Q]](https://leetcode.com/problems/palindrome-linked-list/) ~~[S]~~  0234. Palindrome Linked List
@@ -264,7 +264,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~  0276. Paint Fence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-celebrity/) ~~[S]~~  0277. Find the Celebrity
 - [X] 😊 [[Q]](https://leetcode.com/problems/first-bad-version/) [[S]](./May-Challenge/May%201%20First%20Bad%20Version/278-solution.cpp) 0278. First Bad Version
-- [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./Number%20Theoretic%20Algorithm/279.%20Perfect%20Squares/279-solution.cpp) 0279. Perfect Squares
+- [X] 🤨 [[Q]](https://leetcode.com/problems/perfect-squares/) [[S]](./Coputational%20Problems/279.%20Perfect%20Squares/279-solution.cpp) 0279. Perfect Squares
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/wiggle-sort/) ~~[S]~~  0280. Wiggle Sort
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-iterator/) ~~[S]~~  0281. Zigzag Iterator
 - [ ] 😫 [[Q]](https://leetcode.com/problems/expression-add-operators/) ~~[S]~~  0282. Expression Add Operators
@@ -313,7 +313,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) ~~[S]~~  0325. Maximum Size Subarray Sum Equals k
 - [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) ~~[S]~~  0326. Power of Three
 - [ ] 😫 [[Q]](https://leetcode.com/problems/count-of-range-sum/) ~~[S]~~  0327. Count of Range Sum
-- [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./Data%20Structure/Linked%20List/328.%20Odd%20Even%20Linked%20List/328-solution.py) 0328. Odd Even Linked List
+- [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./Data%20Structure/Linked%20List/328.%20Odd%20Even%20Linked%20List/328-solution.cpp) 0328. Odd Even Linked List
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) ~~[S]~~  0329. Longest Increasing Path in a Matrix
 - [ ] 😫 [[Q]](https://leetcode.com/problems/patching-array/) ~~[S]~~  0330. Patching Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) ~~[S]~~  0331. Verify Preorder Serialization of a Binary Tree
