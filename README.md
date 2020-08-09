@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-71%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-72%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -939,7 +939,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/string-without-aaa-or-bbb/) ~~[S]~~  0984. String Without AAA or BBB
 - [ ] 😊 [[Q]](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) ~~[S]~~  0985. Sum of Even Numbers After Queries
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/interval-list-intersections/) ~~[S]~~  0986. Interval List Intersections
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) ~~[S]~~  0987. Vertical Order Traversal of a Binary Tree
+- [X] 🤨 [[Q]](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [[S]](./Data%20Structure/Binary%20Tree/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/987-solution.py) 0987. Vertical Order Traversal of a Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/smallest-string-starting-from-leaf/) ~~[S]~~  0988. Smallest String Starting From Leaf
 - [ ] 😊 [[Q]](https://leetcode.com/problems/add-to-array-form-of-integer/) ~~[S]~~  0989. Add to Array-Form of Integer
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/satisfiability-of-equality-equations/) ~~[S]~~  0990. Satisfiability of Equality Equations
