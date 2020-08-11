@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-72%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-73%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -259,7 +259,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/encode-and-decode-strings/) ~~[S]~~  0271. Encode and Decode Strings
 - [ ] 😫 [[Q]](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) ~~[S]~~  0272. Closest Binary Search Tree Value II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/integer-to-english-words/) ~~[S]~~  0273. Integer to English Words
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/h-index/) ~~[S]~~  0274. H-Index
+- [X] 🤨 [[Q]](https://leetcode.com/problems/h-index/) [[S]](./Data%20Structure/Array/274.%20H-Index/274-solution.py) 0274. H-Index
 - [X] 🤨 [[Q]](https://leetcode.com/problems/h-index-ii/) [[S]](./Data%20Structure/Array/Sorting%20Algorithm/275.%20H-Index%20II/275-solution.py) 0275. H-Index II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/paint-fence/) ~~[S]~~  0276. Paint Fence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/find-the-celebrity/) ~~[S]~~  0277. Find the Celebrity
