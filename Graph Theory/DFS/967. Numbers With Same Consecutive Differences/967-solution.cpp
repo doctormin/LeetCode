@@ -18,9 +18,15 @@ private:
             return;
         }
         int j = i % 10;
-        if(j + K <= 9)
+        if(K == 0)
             DFS(N-1, K, 10 * i + j + K, ans);
-        if(j - K >= 0)
-            DFS(N-1, K, 10 * i + j - K, ans);
+        else{
+            if(j + K <= 9)
+                DFS(N-1, K, 10 * i + j + K, ans);
+            if(j - K >= 0)
+                DFS(N-1, K, 10 * i + j - K, ans);
+        }
     }
 };
+
+
