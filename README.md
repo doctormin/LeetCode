@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-73%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-75%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -657,7 +657,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) ~~[S]~~  0702. Search in a Sorted Array of Unknown Size
 - [ ] 😊 [[Q]](https://leetcode.com/problems/kth-largest-element-in-a-stream/) ~~[S]~~  0703. Kth Largest Element in a Stream
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-search/) ~~[S]~~  0704. Binary Search
-- [ ] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) ~~[S]~~  0705. Design HashSet
+- [X] 😊 [[Q]](https://leetcode.com/problems/design-hashset/) [[S]](./Data%20Structure/Hash%20Table/705.%20Design%20HashSet/705-solution.cpp) 0705. Design HashSet
 - [ ] 😊 [[Q]](https://leetcode.com/problems/design-hashmap/) ~~[S]~~  0706. Design HashMap
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/design-linked-list/) ~~[S]~~  0707. Design Linked List
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) ~~[S]~~  0708. Insert into a Sorted Circular Linked List
@@ -919,7 +919,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/least-operators-to-express-number/) ~~[S]~~  0964. Least Operators to Express Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/univalued-binary-tree/) ~~[S]~~  0965. Univalued Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/vowel-spellchecker/) ~~[S]~~  0966. Vowel Spellchecker
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) ~~[S]~~  0967. Numbers With Same Consecutive Differences
+- [X] 🤨 [[Q]](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) [[S]](./Graph%20Theory/DFS/967.%20Numbers%20With%20Same%20Consecutive%20Differences/967-solution.cpp) 0967. Numbers With Same Consecutive Differences
 - [ ] 😫 [[Q]](https://leetcode.com/problems/binary-tree-cameras/) ~~[S]~~  0968. Binary Tree Cameras
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/pancake-sorting/) ~~[S]~~  0969. Pancake Sorting
 - [ ] 😊 [[Q]](https://leetcode.com/problems/powerful-integers/) ~~[S]~~  0970. Powerful Integers
