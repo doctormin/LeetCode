@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-75%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-76%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -857,7 +857,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) ~~[S]~~  0902. Numbers At Most N Given Digit Set
 - [ ] 😫 [[Q]](https://leetcode.com/problems/valid-permutations-for-di-sequence/) ~~[S]~~  0903. Valid Permutations for DI Sequence
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/fruit-into-baskets/) ~~[S]~~  0904. Fruit Into Baskets
-- [ ] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) ~~[S]~~  0905. Sort Array By Parity
+- [X] 😊 [[Q]](https://leetcode.com/problems/sort-array-by-parity/) [[S]](./Data%20Structure/Array/905.%20Sort%20Array%20By%20Parity/905-solution.py) 0905. Sort Array By Parity
 - [ ] 😫 [[Q]](https://leetcode.com/problems/super-palindromes/) ~~[S]~~  0906. Super Palindromes
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sum-of-subarray-minimums/) ~~[S]~~  0907. Sum of Subarray Minimums
 - [ ] 😊 [[Q]](https://leetcode.com/problems/smallest-range-i/) ~~[S]~~  0908. Smallest Range I
