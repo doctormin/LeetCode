@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-77%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-78%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -421,7 +421,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-genetic-mutation/) ~~[S]~~  0433. Minimum Genetic Mutation
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-segments-in-a-string/) ~~[S]~~  0434. Number of Segments in a String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) ~~[S]~~  0435. Non-overlapping Intervals
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) ~~[S]~~  0436. Find Right Interval
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) [[S]](./Data%20Structure/Array/Sorting%20Algorithm/436.%20Find%20Right%20Interval/436-solution.py) 0436. Find Right Interval
 - [ ] 😊 [[Q]](https://leetcode.com/problems/path-sum-iii/) ~~[S]~~  0437. Path Sum III
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./Data%20Structure/Hash%20Table/438.%20Find%20All%20Anagrams%20in%20a%20String/438-solution.cpp) 0438. Find All Anagrams in a String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ternary-expression-parser/) ~~[S]~~  0439. Ternary Expression Parser

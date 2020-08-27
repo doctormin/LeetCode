@@ -12,4 +12,3 @@ class Solution:
             else:
                 ans.append(str(i))
         return ans
-            
