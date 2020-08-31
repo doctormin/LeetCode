@@ -1,5 +1,6 @@
 # LeetCode
 ![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-77%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-78%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -313,7 +314,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) ~~[S]~~  0325. Maximum Size Subarray Sum Equals k
 - [ ] 😊 [[Q]](https://leetcode.com/problems/power-of-three/) ~~[S]~~  0326. Power of Three
 - [ ] 😫 [[Q]](https://leetcode.com/problems/count-of-range-sum/) ~~[S]~~  0327. Count of Range Sum
-- [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./Data%20Structure/Linked%20List/328.%20Odd%20Even%20Linked%20List/328-solution.cpp) 0328. Odd Even Linked List
+- [X] 🤨 [[Q]](https://leetcode.com/problems/odd-even-linked-list/) [[S]](./Data%20Structure/Linked%20List/328.%20Odd%20Even%20Linked%20List/328-solution.py) 0328. Odd Even Linked List
 - [ ] 😫 [[Q]](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) ~~[S]~~  0329. Longest Increasing Path in a Matrix
 - [ ] 😫 [[Q]](https://leetcode.com/problems/patching-array/) ~~[S]~~  0330. Patching Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) ~~[S]~~  0331. Verify Preorder Serialization of a Binary Tree
@@ -397,7 +398,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/longest-palindrome/) ~~[S]~~  0409. Longest Palindrome
 - [ ] 😫 [[Q]](https://leetcode.com/problems/split-array-largest-sum/) ~~[S]~~  0410. Split Array Largest Sum
 - [ ] 😫 [[Q]](https://leetcode.com/problems/minimum-unique-word-abbreviation/) ~~[S]~~  0411. Minimum Unique Word Abbreviation
-- [ ] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) ~~[S]~~  0412. Fizz Buzz
+- [X] 😊 [[Q]](https://leetcode.com/problems/fizz-buzz/) [[S]](./Math%20Problems/412.%20Fizz%20Buzz/412-solution.py) 0412. Fizz Buzz
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/arithmetic-slices/) ~~[S]~~  0413. Arithmetic Slices
 - [ ] 😊 [[Q]](https://leetcode.com/problems/third-maximum-number/) ~~[S]~~  0414. Third Maximum Number
 - [ ] 😊 [[Q]](https://leetcode.com/problems/add-strings/) ~~[S]~~  0415. Add Strings
@@ -421,7 +422,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-genetic-mutation/) ~~[S]~~  0433. Minimum Genetic Mutation
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-segments-in-a-string/) ~~[S]~~  0434. Number of Segments in a String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/non-overlapping-intervals/) ~~[S]~~  0435. Non-overlapping Intervals
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) ~~[S]~~  0436. Find Right Interval
+- [X] 🤨 [[Q]](https://leetcode.com/problems/find-right-interval/) [[S]](./Data%20Structure/Array/Sorting%20Algorithm/436.%20Find%20Right%20Interval/436-solution.py) 0436. Find Right Interval
 - [ ] 😊 [[Q]](https://leetcode.com/problems/path-sum-iii/) ~~[S]~~  0437. Path Sum III
 - [X] 🤨 [[Q]](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [[S]](./Data%20Structure/Hash%20Table/438.%20Find%20All%20Anagrams%20in%20a%20String/438-solution.cpp) 0438. Find All Anagrams in a String
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/ternary-expression-parser/) ~~[S]~~  0439. Ternary Expression Parser
