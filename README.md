@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-76%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-77%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -435,7 +435,7 @@ Yimin's LeetCode solutions.
 - [ ] 😊 [[Q]](https://leetcode.com/problems/number-of-boomerangs/) ~~[S]~~  0447. Number of Boomerangs
 - [ ] 😊 [[Q]](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) ~~[S]~~  0448. Find All Numbers Disappeared in an Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-bst/) ~~[S]~~  0449. Serialize and Deserialize BST
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) ~~[S]~~  0450. Delete Node in a BST
+- [X] 🤨 [[Q]](https://leetcode.com/problems/delete-node-in-a-bst/) [[S]](./Data%20Structure/Binary%20Tree/BST/450.%20Delete%20Node%20in%20a%20BST/450-solution.cpp) 0450. Delete Node in a BST
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/sort-characters-by-frequency/) ~~[S]~~  0451. Sort Characters By Frequency
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) ~~[S]~~  0452. Minimum Number of Arrows to Burst Balloons
 - [ ] 😊 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) ~~[S]~~  0453. Minimum Moves to Equal Array Elements
