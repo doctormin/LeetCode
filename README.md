@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-80%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-81%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -444,7 +444,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/132-pattern/) ~~[S]~~  0456. 132 Pattern
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/circular-array-loop/) ~~[S]~~  0457. Circular Array Loop
 - [ ] 😫 [[Q]](https://leetcode.com/problems/poor-pigs/) ~~[S]~~  0458. Poor Pigs
-- [ ] 😊 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) ~~[S]~~  0459. Repeated Substring Pattern
+- [X] 😊 [[Q]](https://leetcode.com/problems/repeated-substring-pattern/) [[S]](./Data%20Structure/Array/String/KMP/459.%20Repeated%20Substring%20Pattern/459-solution.py) 0459. Repeated Substring Pattern
 - [ ] 😫 [[Q]](https://leetcode.com/problems/lfu-cache/) ~~[S]~~  0460. LFU Cache
 - [ ] 😊 [[Q]](https://leetcode.com/problems/hamming-distance/) ~~[S]~~  0461. Hamming Distance
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) ~~[S]~~  0462. Minimum Moves to Equal Array Elements II
