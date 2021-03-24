@@ -33,5 +33,3 @@ class Solution:
             return (s[(m+n)//2] + s[(m+n)//2 + 1]) / 2
         else: 
             return s[(m+n) //2 + 1]
-
-
