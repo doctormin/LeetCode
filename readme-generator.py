@@ -5,7 +5,6 @@ import json
 import requests
 import os
 import re
-import pprint
 from requests.exceptions import Timeout 
 difficulties = [None, '😊', '🤨', '😫']
 
@@ -33,7 +32,7 @@ solved = {}
 def findAllFile(base):
     for root, ds, fs in os.walk(base):
         for f in fs:
-            if f.endswith('.py') or f.endswith('.cpp'):
+            if f.endswith('.py') or f.endswith('.cpp') or f.endswith('.cc'):
                 fullname = os.path.join(root, f)
                 yield [f, fullname]
 
