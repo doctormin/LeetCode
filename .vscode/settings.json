@@ -1,11 +1,14 @@
 {
     "files.associations": {
         "*.cpp": "cpp",
+        "*.html": "html",
+        "*.js": "javascriptreact",
         "limits": "cpp",
         "iostream": "cpp",
         "deque": "cpp",
         "string": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "set": "cpp"
     },
     "code-runner.executorMap": {
         "cpp": "cd $dir && /usr/bin/clang++ -std=c++11 -stdlib=libc++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
