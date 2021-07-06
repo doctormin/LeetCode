@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-85%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-86%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -201,7 +201,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-search-ii/) ~~[S]~~  0212. Word Search II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/house-robber-ii/) ~~[S]~~  0213. House Robber II
 - [ ] 😫 [[Q]](https://leetcode.com/problems/shortest-palindrome/) ~~[S]~~  0214. Shortest Palindrome
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/kth-largest-element-in-an-array/) ~~[S]~~  0215. Kth Largest Element in an Array
+- [X] 🤨 [[Q]](https://leetcode.com/problems/kth-largest-element-in-an-array/) [[S]](./Data%20Structure/Array/Sorting%20Algorithm/215.%20数组中的第K个最大元素/215.cc) 0215. Kth Largest Element in an Array
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/combination-sum-iii/) ~~[S]~~  0216. Combination Sum III
 - [ ] 😊 [[Q]](https://leetcode.com/problems/contains-duplicate/) ~~[S]~~  0217. Contains Duplicate
 - [ ] 😫 [[Q]](https://leetcode.com/problems/the-skyline-problem/) ~~[S]~~  0218. The Skyline Problem
