@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/perfect-squares/
+#include<cmath>
 class Solution {
 public:
     int numSquares(int n) {
