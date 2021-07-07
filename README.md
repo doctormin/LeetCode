@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-86%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-88%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -7,7 +7,7 @@ Yimin's LeetCode solutions.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/add-two-numbers/) [[S]](./Data%20Structure/Linked%20List/2.%20Add%20Two%20Numbers/2-solution.cpp) 0002. Add Two Numbers
 - [X] 🤨 [[Q]](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[S]](./Data%20Structure/Array/String/3.%20Longest%20Substring%20Without%20Repeating%20Characters/3-solution.cpp) 0003. Longest Substring Without Repeating Characters
 - [X] 😫 [[Q]](https://leetcode.com/problems/median-of-two-sorted-arrays/) [[S]](./Data%20Structure/Array/4.%20Median%20of%20Two%20Sorted%20Arrays/4-solution.cc) 0004. Median of Two Sorted Arrays
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) ~~[S]~~  0005. Longest Palindromic Substring
+- [X] 🤨 [[Q]](https://leetcode.com/problems/longest-palindromic-substring/) [[S]](./DP/5.%20最长回文子串/5.cpp) 0005. Longest Palindromic Substring
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/zigzag-conversion/) ~~[S]~~  0006. ZigZag Conversion
 - [X] 😊 [[Q]](https://leetcode.com/problems/reverse-integer/) [[S]](./Data%20Structure/Array/7.%20Reverse%20Integer/7-solution.py) 0007. Reverse Integer
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/string-to-integer-atoi/) ~~[S]~~  0008. String to Integer (atoi)
@@ -107,7 +107,7 @@ Yimin's LeetCode solutions.
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal/) ~~[S]~~  0102. Binary Tree Level Order Traversal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) ~~[S]~~  0103. Binary Tree Zigzag Level Order Traversal
 - [X] 😊 [[Q]](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[S]](./Data%20Structure/Binary%20Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree/104-solution.cpp) 0104. Maximum Depth of Binary Tree
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) ~~[S]~~  0105. Construct Binary Tree from Preorder and Inorder Traversal
+- [X] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [[S]](./Data%20Structure/Binary%20Tree/105.%20从前序与中序遍历序列构造二叉树/105.cpp) 0105. Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) ~~[S]~~  0106. Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] 😊 [[Q]](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) ~~[S]~~  0107. Binary Tree Level Order Traversal II
 - [ ] 😊 [[Q]](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ~~[S]~~  0108. Convert Sorted Array to Binary Search Tree
@@ -285,7 +285,7 @@ Yimin's LeetCode solutions.
 - [ ] 😫 [[Q]](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) ~~[S]~~  0297. Serialize and Deserialize Binary Tree
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) ~~[S]~~  0298. Binary Tree Longest Consecutive Sequence
 - [ ] 😊 [[Q]](https://leetcode.com/problems/bulls-and-cows/) ~~[S]~~  0299. Bulls and Cows
-- [X] 🤨 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./Data%20Structure/Array/300.%20Longest%20Increasing%20Subsequence/300-solution.py) 0300. Longest Increasing Subsequence
+- [X] 🤨 [[Q]](https://leetcode.com/problems/longest-increasing-subsequence/) [[S]](./DP/300.%20最长递增子序列/300.cpp) 0300. Longest Increasing Subsequence
 - [ ] 😫 [[Q]](https://leetcode.com/problems/remove-invalid-parentheses/) ~~[S]~~  0301. Remove Invalid Parentheses
 - [ ] 😫 [[Q]](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) ~~[S]~~  0302. Smallest Rectangle Enclosing Black Pixels
 - [ ] 😊 [[Q]](https://leetcode.com/problems/range-sum-query-immutable/) ~~[S]~~  0303. Range Sum Query - Immutable
