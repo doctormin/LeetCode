@@ -1,5 +1,5 @@
 # LeetCode
-![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-88%20%2F%201342-brigntgreen)
+![](https://img.shields.io/badge/language-python-orange.svg)  ![](https://img.shields.io/badge/language-C%2B%2B-blue)  ![](https://img.shields.io/badge/progress-89%20%2F%201342-brigntgreen)
 
 Yimin's LeetCode solutions.
 ## Problems
@@ -196,7 +196,7 @@ Yimin's LeetCode solutions.
 - [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule/) [[S]](./Graph%20Theory/DFS/Topological%20Sort/207.%20Course%20Schedule/207-soulution.cpp) 0207. Course Schedule
 - [X] 🤨 [[Q]](https://leetcode.com/problems/implement-trie-prefix-tree/) [[S]](./May-Challenge/May%2014%20Implement%20Trie%20(Prefix%20Tree)/208-solution.cpp) 0208. Implement Trie (Prefix Tree)
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/minimum-size-subarray-sum/) ~~[S]~~  0209. Minimum Size Subarray Sum
-- [ ] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) ~~[S]~~  0210. Course Schedule II
+- [X] 🤨 [[Q]](https://leetcode.com/problems/course-schedule-ii/) [[S]](./Graph%20Theory/DFS/Topological%20Sort/210.%20课程表%20II/210.cc) 0210. Course Schedule II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/add-and-search-word-data-structure-design/) ~~[S]~~  0211. Add and Search Word - Data structure design
 - [ ] 😫 [[Q]](https://leetcode.com/problems/word-search-ii/) ~~[S]~~  0212. Word Search II
 - [ ] 🤨 [[Q]](https://leetcode.com/problems/house-robber-ii/) ~~[S]~~  0213. House Robber II
